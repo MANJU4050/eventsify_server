@@ -1,6 +1,5 @@
-# productify_server
-product management API using node js and mongoDB
-https://productifyapi.netlify.app/
+# eventsify_server
+events management API using node js and mongoDB
 # installation
 npm install
 
